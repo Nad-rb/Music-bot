@@ -1,3 +1,2 @@
-# My music bot
-ok use it pls but on ur risk. OK PLS SUB
-https://discord.gg/flute
+# Gift bot 
+## This is not open source! 
